@@ -5,7 +5,10 @@ __pycache__/
 *.joblib
 *.h5
 *.log
-*.csv.7z
+*.csv
+*.7z
+*.zip
+
 
 # --- Jupyter Notebook Checkpoints ---
 .ipynb_checkpoints
