@@ -1,0 +1,12 @@
+streamlit>=1.25
+pandas>=1.5
+numpy>=1.23
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.1
+xgboost>=1.7
+hyperopt>=0.2
+joblib>=1.2
+setuptools>=65.0
+tqdm>=4.64
+tensorflow>=2.11
