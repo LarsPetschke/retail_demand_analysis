@@ -15,7 +15,6 @@ Project used with Advanced Time Series Machine Learning
 ## Running the App
 
 ```bash
-cd app
 streamlit run app/app.py
 ```
 
