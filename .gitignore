@@ -5,10 +5,11 @@ __pycache__/
 *.joblib
 *.h5
 *.log
+
+# --- Data Files ---
 *.csv
 *.7z
 *.zip
-
 
 # --- Jupyter Notebook Checkpoints ---
 .ipynb_checkpoints
@@ -20,33 +21,31 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# --- Data Files ---
-!data/
-!data/data_utils.py
-!data/__init__.py
-data/retail_kaggle_data/transactions.csv
-data/retail_kaggle_data/test.csv
-data/retail_kaggle_data/train.csv
-
-# --- App Code (versioning only relevant files) ---
+# --- Whitelisted App Code ---
 !app/
 !app/app.py
 !app/config.py
 !app/__init__.py
+!app/app_screenshot.png
 
-# --- Model Code ---
-!model/
-!model/model_utils.py
-!model/__init__.py
+# --- Whitelisted Data Code ---
+!data/
+!data/data_utils.py
+!data/__init__.py
 
-# --- Notebooks (only 1_ and 2_) ---
+# --- Notebook Control ---
 !notebooks/
 !notebooks/1_TS_Project_Favorita_Grocery_Sales_Preprocessing.ipynb
 !notebooks/2_TS_Project_Favorita_Grocery_Sales_Forecasting.ipynb
 notebooks/3_TS_Project_Favorita_Grocery_Sales_Backup.ipynb
 notebooks/*.png
 
-# --- MLflow Runs & Model Checkpoints ---
+# --- Model Logic ---
+!model/
+!model/model_utils.py
+!model/__init__.py
+
+# --- Exclude Runs & Artifacts ---
 mlruns/
 model/scaler/
 model/xgb/archive/
