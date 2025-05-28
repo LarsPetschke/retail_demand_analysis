@@ -16,7 +16,7 @@ Project used with Advanced Time Series Machine Learning
 
 ```bash
 cd app
-streamlit run app.py
+streamlit run app/app.py
 ```
 
 - Open the app in your browser.
