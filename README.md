@@ -92,9 +92,10 @@ RETAIL_DEMAND_ANALYSIS/
 - Not included in the repository due to size. Add CSV files to:
   - `data/retail_kaggle_data/`
   - `data/preprocessed_data/`
-- Data for Model calculation:   * Source_1: [train.csv](https://drive.google.com/file/d/1-7S9_L8r9_fFZo9a-5htkEg8HE0rTDiM/view?usp=sharing)
-                                * Source_2: [train_guayas_prepared.csv](https://drive.google.com/file/d/1d88sCAmvrbujI2ObzEqOErUI2zZG9yuE/view?usp=sharing) 
-                                * Source_3: [train_guayas_model_ready.csv](https://drive.google.com/file/d/16Sr31NGSL15RfSMHpNiAczNF8D7ZPf1G/view?usp=sharing)
+- Data for Model calculation:
+  - Source_1: [train.csv](https://drive.google.com/file/d/1-7S9_L8r9_fFZo9a-5htkEg8HE0rTDiM/view?usp=sharing)
+  - Source_2: [train_guayas_prepared.csv](https://drive.google.com/file/d/1d88sCAmvrbujI2ObzEqOErUI2zZG9yuE/view?usp=sharing) 
+  - Source_3: [train_guayas_model_ready.csv](https://drive.google.com/file/d/16Sr31NGSL15RfSMHpNiAczNF8D7ZPf1G/view?usp=sharing)
 
 ---
 
