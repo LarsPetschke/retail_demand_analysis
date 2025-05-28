@@ -23,6 +23,7 @@ streamlit run app.py
 - Select **Store ID**, **Item ID**, and a **Model** from the sidebar.
 - View forecast charts, error metrics (MAE, R²), and forecast table.
 
+![App Screenshow](app/app_screenshot.png)
 
 ---
 
